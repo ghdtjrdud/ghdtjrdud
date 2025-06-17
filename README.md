@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯About Me </h2>  
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 About Me </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     효율적인 개발을 추구하는 데 관심이 많습니다.<br/>
     비즈니스 문제를 기술로 해결하는 데 관심이 많습니다.
@@ -46,20 +46,45 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-  <div style="text-align: left;">
-    <a href="https://velog.io/@ghdtjrdud388/posts">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">
-    </a>
-    <a href="mailto:ghdtjrdud38@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
-    </a>
-  </div> <br> 
+  <a href="https://velog.io/@ghdtjrdud388/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">
+  </a>
+  <a href="mailto:ghdtjrdud38@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
+  </a>
 </div>
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ghdtjrdud&bg_color=180,000000,&title_color=000000&text_color=000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdtjrdud&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-  </div> 
+---
+
+## 🚀 Currently Learning
+- Kafka 기반 메시징 시스템  
+- 클린 아키텍처 및 도메인 주도 설계(DDD)  
+- 대규모 시스템의 트래픽 처리 및 분산 설계
+
+---
+
+## 🎯 2025 Goals
+- ✅ Kafka 기반 비동기 서비스 구축  
+- ✅ 개인 기술 블로그 운영 및 정리  
+- ✅ 오픈소스 기여 2건 이상  
+- ✅ 백엔드 아키텍처 구조 설계 능력 향상  
+- ✅ 클린코드 실천 및 리팩토링 프로젝트 경험 축적
+
+---
+
+## 💭 Development Philosophy
+> **"기능을 넘어서, 유지보수성과 확장성을 고민하는 개발자"**
+
+---
+
+<div align="center">
+  <h2>🏅 GitHub Stats</h2>
+  
+  <img src="https://komarev.com/ghpvc/?username=ghdtjrdud&label=Profile%20views&color=0e75b6&style=flat" alt="ghdtjrdud" />
+
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghdtjrdud&show_icons=true&theme=default&bg_color=180,FFFFFF,FFFFFF&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdtjrdud&layout=compact&bg_color=180,FFFFFF,FFFFFF&title_color=000000&text_color=000000" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ghdtjrdud&bg_color=ffffff&color=000000&line=6db33f&point=000000&area=true&hide_border=true" />
 </div>
