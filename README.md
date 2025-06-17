@@ -86,5 +86,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ghdtjrdud&show_icons=true&theme=default&bg_color=180,FFFFFF,FFFFFF&title_color=000000&text_color=000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdtjrdud&layout=compact&bg_color=180,FFFFFF,FFFFFF&title_color=000000&text_color=000000" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ghdtjrdud&bg_color=ffffff&color=000000&line=6db33f&point=000000&area=true&hide_border=true" />
 </div>
